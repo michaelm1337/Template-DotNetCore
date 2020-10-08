@@ -1,0 +1,9 @@
+D:\dev\mine\estudos\Template\Template\Template.Application\bin\Debug\netcoreapp3.1\Template.Application.deps.json
+D:\dev\mine\estudos\Template\Template\Template.Application\bin\Debug\netcoreapp3.1\Template.Application.dll
+D:\dev\mine\estudos\Template\Template\Template.Application\bin\Debug\netcoreapp3.1\Template.Application.pdb
+D:\dev\mine\estudos\Template\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.csprojAssemblyReference.cache
+D:\dev\mine\estudos\Template\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.AssemblyInfoInputs.cache
+D:\dev\mine\estudos\Template\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.AssemblyInfo.cs
+D:\dev\mine\estudos\Template\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.csproj.CoreCompileInputs.cache
+D:\dev\mine\estudos\Template\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.dll
+D:\dev\mine\estudos\Template\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.pdb
